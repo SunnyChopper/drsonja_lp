@@ -7,3 +7,4 @@
 
 <!-- Custom scripts for this template -->
 <script src="{{ URL::asset('js/stylish-portfolio.min.js') }}"></script>
+<script src="{{ URL::asset('js/main.js') }}"></script>
