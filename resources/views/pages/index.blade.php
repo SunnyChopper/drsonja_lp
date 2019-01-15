@@ -49,7 +49,7 @@
 		</div>
 	</div>
 
-	<div style="background-color: rgba(252, 90, 162, 1)!important;">
+	<div style="background-color: #EC297B !important;">
 		<div class="container pt-64 pb-64">
 			<div class="row justify-content-center">
 				<div class="col-lg-8 col-md-8 col-sm-10 col-12">
@@ -67,7 +67,7 @@
 		<div class="row">
 			<div class="col-12">
 				<h2 class="text-center" style="color: rgba(252, 90, 162, 1);">Build Your Coaching & Speaking Empire Tour 2019</h2>
-				<p class="text-center" style="color: rgba(252, 90, 162, 1); line-height: 1.15em;"><small>Tickets are non-refundable. However, they are transferrable, which means that you can sell or gift your seat to someone else.</small>
+				<p class="text-center" style="line-height: 1.15em;"><small>Tickets are non-refundable. However, they are transferrable, which means that you can sell or gift your seat to someone else.</small>
 				<hr />
 			</div>
 		</div>
