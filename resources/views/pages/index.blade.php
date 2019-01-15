@@ -346,7 +346,7 @@
 				</div>
 
 				<div class="col-lg-6 col-md-6 col-sm-8 col-12" style="margin: auto;">
-					<h3>Who is Dr. Sonja?</h3>
+					<h3 class="mt-32-mobile">Who is Dr. Sonja?</h3>
 					<hr />
 					<p>Dr. Sonja Stribling is globally known for her work in transforming women, in creating influence for those who are looking to gain recognition, and for being a Best-Selling Author of <i>“The Divorce That Saved My Life.”</i> As a retired Army Major and <b>TV personality for Bravo Network</b>, Dr. Stribling has moved into helping those who are looking to improve their business and career. As the Chairwoman of the <b>Born to Be Powerful® Academy</b> and Founder of <b>Women Speak and Grow Rich® Mastermind</b>, Dr. Stribling has put together a complete set of courses, events, and result-based coaching programs that equip and establish influencers, entrepreneurs, and really any individual looking to improve their business and financial position.</p>
 				</div>
