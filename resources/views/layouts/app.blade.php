@@ -3,10 +3,14 @@
 	<head>
 		<meta charset="utf-8">
 	    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	    <meta name="description" content="">
-	    <meta name="author" content="">
+	    <meta name="description" content="Ready to use your life experience and knowledge and turn it into a 6 or 7 figure empire as a coach and/or speaker?">
 
-	    <title>Dr. Sonja</title>
+	    <title>Dr. Sonja - Build Your Empire Tour 2019</title>
+
+	    <meta property="og:title" content="Dr. Sonja's Build Your Empire Tour 2019">
+		<meta property="og:description" content="Ready to use your life experience and knowledge and turn it into a 6 or 7 figure empire as a coach and/or speaker?">
+		<meta property="og:image" content="{{ URL::asset('img/banner-image-1.jpg') }}">
+		<meta property="og:url" content="http://www.buildyourempiretour.com">
 
 	    <!-- Bootstrap Core CSS -->
 	    <link href="{{ URL::asset('vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
