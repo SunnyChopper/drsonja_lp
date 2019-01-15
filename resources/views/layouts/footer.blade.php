@@ -13,10 +13,10 @@
 			</li>
 			<li class="list-inline-item">
 				<a class="social-link rounded-circle text-white" href="#">
-					<i class="icon-social-github"></i>
+					<i class="icon-social-instagram"></i>
 				</a>
 			</li>
 		</ul>
-		<p class="text-muted small mb-0">Copyright &copy; Your Website 2018</p>
+		<p class="text-muted small mb-0">Copyright &copy; Dr. Sonja 2019</p>
 	</div>
 </footer>

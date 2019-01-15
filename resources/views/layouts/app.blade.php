@@ -18,9 +18,11 @@
 
 	    <!-- Custom CSS -->
 	    <link href="{{ URL::asset('css/stylish-portfolio.min.css') }}" rel="stylesheet">
+	    <link href="{{ URL::asset('css/layouts.css') }}" rel="stylesheet">
+	    <link href="{{ URL::asset('css/app.css') }}" rel="stylesheet">
 	</head>
 	<body id="page-top">
-		@include('layouts.navbar')
+
 		@yield('content')
 		@include('layouts.footer')
 		@include('layouts.js')
