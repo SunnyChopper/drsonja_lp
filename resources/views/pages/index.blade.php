@@ -7,7 +7,7 @@
 		<div class="container pt-64 pb-64">
 			<div class="row justify-content-center">
 				<div class="col-lg-8">
-					<h5 class="text-center" style="color: #fc5aa2;">Are you ready for your Next Level Coaching and/or Speaking business?</h5>
+					<h2 class="text-center" style="color: #D7B056;">Are you ready for your Next Level Coaching and/or Speaking business?</h2>
 					<hr />
 					<p class="text-center">Join Dr. Sonja Stribling at a location near you for this 4-hour Masterclass of how to Launch, build or expand your Coaching or Speaking Empire.</p>
 					<p class="text-center">There is no better time to be a Woman in business especially in the Coaching and Speaking world. Your message, your story, your life experiences and knowledge need to be shared! Your voice needs to be heard!</p>
@@ -66,7 +66,7 @@
 	<div class="container pt-64 pb-64" id="events">
 		<div class="row">
 			<div class="col-12">
-				<h2 class="text-center" style="color: rgba(252, 90, 162, 1);">Build Your Coaching & Speaking Empire Tour 2019</h2>
+				<h2 class="text-center" style="color: #D7B056;">Build Your Coaching & Speaking Empire Tour 2019</h2>
 				<p class="text-center" style="line-height: 1.15em;"><small>Tickets are non-refundable. However, they are transferrable, which means that you can sell or gift your seat to someone else.</small>
 				<hr />
 			</div>
