@@ -107,7 +107,7 @@
 					<h5>February 17th, 2019</h5>
 					<p class="time">1PM to 5PM</p>
 					<p>Specific location will be sent through email after registration</p>
-					<h4 class="price">$47<small>/<small>ticket</small></small></h4>
+					<h4 class="price">$67<small>/<small>ticket</small></small></h4>
 					<a href="https://londonbuildyourempire.securechkout.com/" class="btn btn-primary mt-16">Purchase Ticket <i class="fas fa-arrow-circle-right ml-2"></i></a>
 				</div>
 			</div>
@@ -135,7 +135,7 @@
 					<h5>March 2nd, 2019</h5>
 					<p class="time">1PM to 5PM</p>
 					<p>Specific location will be sent through email after registration</p>
-					<h4 class="price">$47<small>/<small>ticket</small></small></h4>
+					<h4 class="price">$67<small>/<small>ticket</small></small></h4>
 					<a href="https://dcbuildyourempire.securechkout.com/" class="btn btn-primary mt-16">Purchase Ticket <i class="fas fa-arrow-circle-right ml-2"></i></a>
 				</div>
 			</div>
