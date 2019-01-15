@@ -82,7 +82,7 @@
 					<p class="time">1PM to 5PM</p>
 					<p>Specific location will be sent through email after registration</p>
 					<h4 class="price">$67<small>/<small>ticket</small></small></h4>
-					<a href="" class="btn btn-primary mt-16">Purchase Ticket <i class="fas fa-arrow-circle-right ml-2"></i></a>
+					<a href="https://labuildyourempiretour.securechkout.com/" class="btn btn-primary mt-16">Purchase Ticket <i class="fas fa-arrow-circle-right ml-2"></i></a>
 				</div>
 			</div>
 
@@ -95,7 +95,7 @@
 					<p class="time">1PM to 5PM</p>
 					<p>Specific location will be sent through email after registration</p>
 					<h4 class="price">$47<small>/<small>ticket</small></small></h4>
-					<a href="" class="btn btn-primary mt-16">Purchase Ticket <i class="fas fa-arrow-circle-right ml-2"></i></a>
+					<a href="https://houstonbuildyourempire.securechkout.com/" class="btn btn-primary mt-16">Purchase Ticket <i class="fas fa-arrow-circle-right ml-2"></i></a>
 				</div>
 			</div>
 
@@ -108,7 +108,7 @@
 					<p class="time">1PM to 5PM</p>
 					<p>Specific location will be sent through email after registration</p>
 					<h4 class="price">$47<small>/<small>ticket</small></small></h4>
-					<a href="" class="btn btn-primary mt-16">Purchase Ticket <i class="fas fa-arrow-circle-right ml-2"></i></a>
+					<a href="https://londonbuildyourempire.securechkout.com/" class="btn btn-primary mt-16">Purchase Ticket <i class="fas fa-arrow-circle-right ml-2"></i></a>
 				</div>
 			</div>
 		</div>
@@ -123,7 +123,7 @@
 					<p class="time">1PM to 5PM</p>
 					<p>Specific location will be sent through email after registration</p>
 					<h4 class="price">$47<small>/<small>ticket</small></small></h4>
-					<a href="" class="btn btn-primary mt-16">Purchase Ticket <i class="fas fa-arrow-circle-right ml-2"></i></a>
+					<a href="https://atlantabuildyourempire.securechkout.com/" class="btn btn-primary mt-16">Purchase Ticket <i class="fas fa-arrow-circle-right ml-2"></i></a>
 				</div>
 			</div>
 
@@ -136,7 +136,7 @@
 					<p class="time">1PM to 5PM</p>
 					<p>Specific location will be sent through email after registration</p>
 					<h4 class="price">$47<small>/<small>ticket</small></small></h4>
-					<a href="" class="btn btn-primary mt-16">Purchase Ticket <i class="fas fa-arrow-circle-right ml-2"></i></a>
+					<a href="https://dcbuildyourempire.securechkout.com/" class="btn btn-primary mt-16">Purchase Ticket <i class="fas fa-arrow-circle-right ml-2"></i></a>
 				</div>
 			</div>
 
@@ -149,7 +149,7 @@
 					<p class="time">1PM to 5PM</p>
 					<p>Specific location will be sent through email after registration</p>
 					<h4 class="price">$67<small>/<small>ticket</small></small></h4>
-					<a href="" class="btn btn-primary mt-16">Purchase Ticket <i class="fas fa-arrow-circle-right ml-2"></i></a>
+					<a href="https://njbuildyourempire.securechkout.com/" class="btn btn-primary mt-16">Purchase Ticket <i class="fas fa-arrow-circle-right ml-2"></i></a>
 				</div>
 			</div>
 		</div>
@@ -164,7 +164,7 @@
 					<p class="time">1PM to 5PM</p>
 					<p>Specific location will be sent through email after registration</p>
 					<h4 class="price">$47<small>/<small>ticket</small></small></h4>
-					<a href="" class="btn btn-primary mt-16">Purchase Ticket <i class="fas fa-arrow-circle-right ml-2"></i></a>
+					<a href="https://fortlauderdalebuildyourempire.securechkout.com/" class="btn btn-primary mt-16">Purchase Ticket <i class="fas fa-arrow-circle-right ml-2"></i></a>
 				</div>
 			</div>
 		</div>
