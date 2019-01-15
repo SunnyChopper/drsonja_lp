@@ -12,7 +12,7 @@
 				</a>
 			</li>
 			<li class="list-inline-item">
-				<a class="social-link rounded-circle text-white" href="https://www.instagram.com/drsonja7/">
+				<a class="social-link rounded-circle text-white" href="https://instagram.com/iamdrsonja/">
 					<i class="icon-social-instagram"></i>
 				</a>
 			</li>
