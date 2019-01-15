@@ -7,13 +7,10 @@
 		<div class="container pt-64 pb-64">
 			<div class="row justify-content-center">
 				<div class="col-lg-8">
-					<h2 class="text-center" style="color: #D7B056;">Are you a coach, speaker, or influencer?</h2>
+					<h2 class="text-center" style="color: #D7B056;">Are you ready for Next Level Coaching? Are you ready to start your professional speaking business?</h2>
 					<hr />
-					<p class="text-center">If so, this event is for YOU!</p>
-					<p class="text-center">If you're a <b>COACH</b>, we will show you how to get more clients, make more impact, and scale your business to the next level.</p>
-					<p class="text-center">If you're a <b>SPEAKER</b>, we will give you a bulletproof system to get on more stages, close more sales, and keep them coming back for more, again and again!</p>
-					<p class="text-center">If you're an <b>INFLUENCER</b>, we will unveil the hidden piece of the puzzle that you have been missing to <b>MONETIZE</b> your brand.</p>
-					<p class="text-center">If you're not any of the above, we will show you exactly how you can take your passion and turn it into a real business.</p>
+					<p class="text-center">Join Dr. Sonja Stribling at a location near you for this 4-hour mastermind on how to launch, build, and expand your coaching and speaking business.</p>
+					<p class="text-center">There is no better time to be a woman in business, specifically in the coaching and speaking world. Your message, story, life experiences and knowledge are wanted and needed by many; it doesn’t matter if you are in the launching, building, expansion stage...<b>its time for your voice to heard!</b></p>
 				</div>
 			</div>
 		</div>
@@ -26,8 +23,8 @@
 					<i class="fas fa-rocket"></i>
 					<h6>Launch Stage</h6>
 					<hr />
-					<p>Know you have a message to share but you don’t know <i>where to start?</i></p>
-					<p>Asking Where do I start? What is my message? What products or services will you sell? How do I pack?</p>
+					<p>Feel like you have a message to share, are made for more, and want to lead others through the pass you have experienced, but don’t know <i>where</i> to start? Having trouble how to package your message so that it can be received by thousands? Are you questioning what kind of products or services you can or should be selling?</p>
+					<p>Welcome to the launching stage!</p>
 				</div>
 			</div>
 
@@ -36,7 +33,8 @@
 					<i class="fas fa-wrench"></i>
 					<h6>Build Stage</h6>
 					<hr />
-					<p>Have been coaching or speaking but now get paid what you are worth.</p>
+					<p>Have you been coaching or speaking, but have never gotten paid for it? Or have you gotten paid, but nowhere near the amount you deserve? It’s time to learn how to get paid what you are worth.</p>
+					<p>Welcome to the building stage!</p>
 				</div>
 			</div>
 
@@ -45,13 +43,14 @@
 					<i class="fas fa-signal"></i>
 					<h6>Expand Stage</h6>
 					<hr />
-					<p>Have a profitable business but want to learn how to WORK less and make more money as a Coach or a Profitable Speaker. Scale your business to a high 7-Figures.</p>
+					<p>Maybe you have finally learned how to get paid well, but are you working too hard? Are you flying all over the place, working hours on the computer, and slowly realizing that for each additional gig, you are working just as many hours more? This is where you learn to scale your business to a high 7-figure business <b>without</b> putting in more work!</p>
+					<p>Welcome to the expansion stage!</p>
 				</div>
 			</div>
 		</div>
 	</div>
 
-	<div style="background-color: hsl(0, 0%, 98%);">
+	{{-- <div style="background-color: hsl(0, 0%, 98%);">
 		<div class="container pt-64 pb-64">
 			<div class="row justify-content-center">
 				<div class="col-12">
@@ -132,9 +131,9 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> --}}
 
-	<div class="container pt-64 pb-64">
+	{{-- <div class="container pt-64 pb-64">
 		<div class="row justify-content-center">
 			<div class="col-12">
 				<h2 class="text-center mb-32">What's <span style="color: #D7B056;">NEW</span> this year?</h2>
@@ -203,17 +202,17 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> --}}
 
 	<div style="background-color: #EC297B !important;">
 		<div class="container pt-64 pb-64">
 			<div class="row justify-content-center">
 				<div class="col-lg-8 col-md-8 col-sm-10 col-12">
 					<h3 class="text-white text-center mb-4">Who is this Masterclass for?</h3>
-					<p class="text-white text-left"><i class="fas fa-check-circle mr-2"></i> You don’t know where to start</p>
-					<p class="text-white text-left"><i class="fas fa-check-circle mr-2"></i> You want to learn how to sell from stage</p>
-					<p class="text-white text-left"><i class="fas fa-check-circle mr-2"></i> You want to come learn how to develop your mission statement</p>
-					<p class="text-white text-left"><i class="fas fa-check-circle mr-2"></i> You want to come learn how to create you signature</p>
+					<p class="text-white text-left"><i class="fas fa-check-circle mr-2"></i> You don’t know where to start, but you know you have a message you are dying to share!</p>
+					<p class="text-white text-left"><i class="fas fa-check-circle mr-2"></i> You want to create a 6-7 figure speaking and coaching business!</p>
+					<p class="text-white text-left"><i class="fas fa-check-circle mr-2"></i> You’re an influencer and want to create an additional 6-7 figures from sharing your experiences and stories!</p>
+					<p class="text-white text-left"><i class="fas fa-check-circle mr-2"></i> You want to monetize your experiences and knowledge through coaching and speaking!</p>
 				</div>
 			</div>
 		</div>
@@ -337,30 +336,15 @@
 				<div class="col-lg-6 col-md-6 col-sm-8 col-12" style="margin: auto;">
 					<h3>Who is Dr. Sonja?</h3>
 					<hr />
-					<p>Dr. Sonja Stribling is a Transformation Specialist, Inﬂuence Expert and Best-Selling Author known as the General to Giants. This retired Army Major, TV personality on Bravo Network, now uses this training and experience to lead thousands to their victory in dominating in their space and use their inner power to ascend to their Next Level in life and business.  As the Chairwoman of the Born to Be Powerful® Academy and Founder of Women Speak and Grow Rich® Masterclass, her firm’s courses, events, and results-based coaching programs, equips emerging and established influencers, entrepreneurs and game changers to use their life experience and knowledge to build their empires and leave a legacy. she shares her trade secrets to how she generated $250K in one day, grew her business to $1M in 12 months and generates over $100K monthly as a Coach and Speaker.</p>
+					<p>Dr. Sonja Stribling is globally known for her work in transforming women, in creating influence for those who are looking to gain recognition, and for being a Best-Selling Author of <i>“The Divorce That Saved My Life.”</i> As a retired Army Major and <b>TV personality for Bravo Network</b>, Dr. Stribling has moved into helping those who are looking to improve their business and career. As the Chairwoman of the <b>Born to Be Powerful® Academy</b> and Founder of <b>Women Speak and Grow Rich® Mastermind</b>, Dr. Stribling has put together a complete set of courses, events, and result-based coaching programs that equip and establish influencers, entrepreneurs, and really any individual looking to improve their business and financial position.</p>
 				</div>
 			</div>
 
 			<hr />
 
 			<div class="row justify-content-center mt-32">
-				<div class="col-lg-8 col-md-10 col-sm-12 col-12">
-					<p>As a mother of 3 boys and a divorcee after being married for 18 years, I know all to well the mindset of a woman who wanted more but just didn’t know what that more was or how to get to it. But one thing I knew after living the life I lived of:</p>
-					<ul>
-						<li>Having a child at 15 years old</li>
-						<li>Raped and left for dead at 17 years old</li>
-						<li>Joining the military and retiring after serving my Country for 21 years</li>
-						<li>Being a combat veteran (serving 3 combat tours one to include Iraq for 15 month)</li>
-						<li>Being married for 18yrs and going through a divorce that took 3 years to dissolve</li>
-						<li>Losing houses and cars</li>
-						<li>Being clinically depressed (partially losing my natural mind)</li>
-					</ul>
-					<p>Yes, I know all this sounds so traumatic but my point of sharing this information and my personal journal of my life is to show you that although we may experience tragedy in our lives, we can still muster up courage and strength and use the negative energy to create a life we deserve and desire. But it takes an inner power that many are challenged with discovering.</p>
-					<p>You see less than 3 years age I decided to not focus on me and begin helping women through their life journey. This quickly turned into a million-dollar business. Yes million- dollar BUSINESS!! I had to win because for so long I wasn’t winning. I had to give myself permission to be AMAZING!</p>
-					<p>Today I help thousands of women to have fulfilled lives by digging deep and discovery why they aren’t WINNING in life or business.</p>
-					<p>The one thing I have found is many aren’t even on a pathway to their purpose.</p>
-					<p>I want to see you WIN in your Destiny and operating in your PURPOSE. That is why I get up every day to find women like you.</p>
-					<p>I wanted to become the woman to many, that I didn’t have in my life during my life journey to greatness.</p>
+				<div class="col-lg-10 col-md-10 col-sm-12 col-12">
+					<p>To help those in business, Dr. Stribling’s approach is quite different than many others. Instead of creating something from scratch, she helps individuals use their past experiences and current knowledge to build a business. She is proof that it is possible to close a <b>$250K</b> deal in a single day, grow a <b>$1M</b> business in one year, and generate over <b>$100K</b> monthly as a speaker and coach. Impressive, right? Even more impressive, Dr. Stribling has been able to have all of this business success by using her own story and nothing else! All of the answers that we need to succeed are right within ourselves… so, <b style="color: #EC297B;">WHY NOT YOU?</b></p>
 				</div>
 			</div>
 		</div>
