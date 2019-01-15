@@ -28,7 +28,7 @@
 					<i class="fas fa-rocket"></i>
 					<h6>Launch Stage</h6>
 					<hr />
-					<p>Feel like you have a message to share, are made for more, and want to lead others through the pass you have experienced, but don’t know <i>where</i> to start? Having trouble how to package your message so that it can be received by thousands? Are you questioning what kind of products or services you can or should be selling?</p>
+					<p>Feel like you have a message to share, are made for more, and want to lead others through the past you have experienced, but don’t know <i>where</i> to start? Having trouble packaging your message so that it can be received by thousands? Are you questioning what kind of products or services you can or should be selling?</p>
 					<p>Welcome to the launching stage!</p>
 				</div>
 			</div>
@@ -48,7 +48,7 @@
 					<i class="fas fa-signal"></i>
 					<h6>Expansion Stage</h6>
 					<hr />
-					<p>Maybe you have finally learned how to get paid well, but are you working too hard? Are you flying all over the place, working hours on the computer, and slowly realizing that for each additional gig, you are working just as many hours more? This is where you learn to scale your business to a high 7-figure business <b>without</b> putting in more work!</p>
+					<p>Maybe you’re at the 6-figure level, but you’re working long hours and still feel unappreciated, undervalued, and want to learn how to work less and make more money. This is where you learn to scale your business to a high 7-figure business <b>without</b> putting in more work!</p>
 					<p>Welcome to the expansion stage!</p>
 				</div>
 			</div>
@@ -333,6 +333,13 @@
 
 	<div style="background: hsl(0, 0%, 95%);">
 		<div class="container pt-64 pb-64">
+			<div class="row">
+				<div class="col-12">
+					<h3 class="text-center mb-0">Are you tired of standing on the sideline and playing too small?</h3>
+					<h3 class="text-center mb-64">Will you join us?</h3>
+				</div>
+			</div>
+
 			<div class="row" style="display: flex;">
 				<div class="col-lg-6 col-md-6 col-sm-8 col-12" style="margin: auto;">
 					<img src="{{ URL::asset('img/Who-is.jpg') }}" class="regular-image">
@@ -349,23 +356,9 @@
 
 			<div class="row justify-content-center mt-32">
 				<div class="col-lg-8 col-md-10 col-sm-12 col-12">
-					<p>As a mother of 3 boys and a divorcee after being married for 18 years, I know all to well the mindset of a woman who wanted more but just didn’t know what that more was or how to get to it. But one thing I knew after living the life I lived of:</p>
-					<ul>
-						<li>Having a child at 15 years old</li>
-						<li>Raped and left for dead at 17 years old</li>
-						<li>Joining the military and retiring after serving my Country for 21 years</li>
-						<li>Being a combat veteran (serving 3 combat tours one to include Iraq for 15 month)</li>
-						<li>Being married for 18yrs and going through a divorce that took 3 years to dissolve</li>
-						<li>Losing houses and cars</li>
-						<li>Being clinically depressed (partially losing my natural mind)</li>
-					</ul>
-					<p>Yes, I know all this sounds so traumatic but my point of sharing this information and my personal journal of my life is to show you that although we may experience tragedy in our lives, we can still muster up courage and strength and use the negative energy to create a life we deserve and desire. But it takes an inner power that many are challenged with discovering.</p>
-					<p>You see less than 3 years age I decided to not focus on me and begin helping women through their life journey. This quickly turned into a million-dollar business. Yes million- dollar BUSINESS!! I had to win because for so long I wasn’t winning. I had to give myself permission to be AMAZING!</p>
-					<p>Today I help thousands of women to have fulfilled lives by digging deep and discovery why they aren’t WINNING in life or business.</p>
-					<p>The one thing I have found is many aren’t even on a pathway to their purpose.</p>
-					<p>I want to see you WIN in your Destiny and operating in your PURPOSE. That is why I get up every day to find women like you.</p>
-					<p>I wanted to become the woman to many, that I didn’t have in my life during my life journey to greatness.</p>
-					<p>To help those in business, Dr. Stribling’s approach is quite different than many others. Instead of creating something from scratch, she helps individuals use their past experiences and current knowledge to build a business. She is proof that it is possible to close a <b>$250K</b> deal in a single day, grow a <b>$1M</b> business in one year, and generate over <b>$100K</b> monthly as a speaker and coach. Impressive, right? Even more impressive, Dr. Stribling has been able to have all of this business success by using her own story and nothing else! All of the answers that we need to succeed are right within ourselves… so, <b style="color: #EC297B;">WHY NOT YOU?</b></p>
+					<p>To help those in business, Dr. Stribling’s approach is quite different than many others. Instead of creating something from scratch, she helps individuals use their past experiences and current knowledge to build a business. She is proof that it is possible to close a <b>$250K</b> deal in a single day, grow a <b>$1M</b> business in one year, and generate over <b>$100K</b> monthly as a speaker and coach. Impressive, right? Even more impressive, Dr. Stribling has been able to have all of this business success by using her own story and nothing else! All of the answers that we need to succeed are right within ourselves… so, <span style="color: #EC297B;"><b>WHY NOT YOU?</b></span></p>
+					<p>No matter what you have gone through, there is nothing that can stop you from being in that same position. Dr. Stribling, who is a mother of three boys, experienced many triumphs and failures; in fact, she has gone through a 3-year divorce after 18 years of marriage, has had her first child at 15 years old, was raped and left for death at 17 years old, experienced the struggles in the military, lost all of her real estate and assets, and was even clinically depressed for quite a long time. If anyone knows what it is like to want more but have no idea how to get it… it is Dr. Stribling. These experiences now add to her empathetic approach in helping others turn their life around and gain the power that they lost back the way she did.</p>
+					<p><b>So ask yourself...WHY NOT YOU?</b></p>
 				</div>
 			</div>
 		</div>
