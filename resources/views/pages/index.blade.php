@@ -48,7 +48,7 @@
 					<i class="fas fa-signal"></i>
 					<h6>Expansion Stage</h6>
 					<hr />
-					<p>Maybe you’re at the 6-figure level, but you’re working long hours and still feel unappreciated, undervalued, and want to learn how to work less and make more money. This is where you learn to scale your business to a high 7-figure business <b>without</b> putting in more work!</p>
+					<p>Maybe you’re at the 6-figure level, but you’re working long hours and still feel unappreciated, undervalued, and want to learn how to work less and make more money. This is where you learn to scale your business to a high 7-figure business...by working less but making more money.</p>
 					<p>Welcome to the expansion stage!</p>
 				</div>
 			</div>
